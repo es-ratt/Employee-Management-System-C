@@ -1,0 +1,48 @@
+ID: 67
+Name: Mahee
+Age: 30
+Contact number (+880...): 01733903412
+Email: mahee@gmail.com
+Joining date (dd-mm-yyyy): 23-07-2023
+Position: Eng
+Base salary: 2000.00
+Attendance (out of 30): 28
+Bonus: 200.00
+Deduction: 133.33
+-------------------------
+ID: 147
+Name: Esrat
+Age: 20
+Contact number (+880...): 01400416750
+Email: esrat@gmail.come
+Joining date (dd-mm-yyyy): 24-06-2022
+Position: Soft Eng
+Base salary: 200000.00
+Attendance (out of 30): 29
+Bonus: 20000.00
+Deduction: 6666.67
+-------------------------
+ID: 200
+Name: Saba
+Age: 24
+Contact number (+880...): 01500703423
+Email: saba@gmail.com
+Joining date (dd-mm-yyyy): 13-05-2024
+Position: Eng
+Base salary: 20000.00
+Attendance (out of 30): 28
+Bonus: 2000.00
+Deduction: 1333.33
+-------------------------
+ID: 269
+Name: Itu
+Age: 39
+Contact number (+880...): 01978092345
+Email: sharmin@gmail.com
+Joining date (dd-mm-yyyy): 27-02-2021
+Position: Engg
+Base salary: 30000.00
+Attendance (out of 30): 27
+Bonus: 3000.00
+Deduction: 3000.00
+-------------------------
